@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E788AD2-8441-479F-8263-9999DFC6D18E}|TheChronicle\\TheChronicle.csproj|c:\\users\\alexander.eklundfal\\source\\repos\\thechronicle\\thechronicle\\view\\village.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6E788AD2-8441-479F-8263-9999DFC6D18E}|TheChronicle\\TheChronicle.csproj|solutionrelative:thechronicle\\view\\village.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{32339C44-B11D-FD66-C357-58C2A15F51CB}|TheChronicle\\TheChronicle.csproj|c:\\users\\alexander.eklundfal\\source\\repos\\thechronicle\\thechronicle\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32339C44-B11D-FD66-C357-58C2A15F51CB}|TheChronicle\\TheChronicle.csproj|solutionrelative:thechronicle\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E788AD2-8441-479F-8263-9999DFC6D18E}|TheChronicle\\TheChronicle.csproj|c:\\users\\alexander.eklundfal\\source\\repos\\thechronicle\\thechronicle\\view\\village.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E788AD2-8441-479F-8263-9999DFC6D18E}|TheChronicle\\TheChronicle.csproj|solutionrelative:thechronicle\\view\\village.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32339C44-B11D-FD66-C357-58C2A15F51CB}|TheChronicle\\TheChronicle.csproj|c:\\users\\alexander.eklundfal\\source\\repos\\thechronicle\\thechronicle\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32339C44-B11D-FD66-C357-58C2A15F51CB}|TheChronicle\\TheChronicle.csproj|solutionrelative:thechronicle\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E788AD2-8441-479F-8263-9999DFC6D18E}|TheChronicle\\TheChronicle.csproj|c:\\users\\alexander.eklundfal\\source\\repos\\thechronicle\\thechronicle\\view\\shop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E788AD2-8441-479F-8263-9999DFC6D18E}|TheChronicle\\TheChronicle.csproj|solutionrelative:thechronicle\\view\\shop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32339C44-B11D-FD66-C357-58C2A15F51CB}|TheChronicle\\TheChronicle.csproj|c:\\users\\alexander.eklundfal\\source\\repos\\thechronicle\\thechronicle\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32339C44-B11D-FD66-C357-58C2A15F51CB}|TheChronicle\\TheChronicle.csproj|solutionrelative:thechronicle\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E788AD2-8441-479F-8263-9999DFC6D18E}|TheChronicle\\TheChronicle.csproj|c:\\users\\alexander.eklundfal\\source\\repos\\thechronicle\\thechronicle\\view\\shop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6E788AD2-8441-479F-8263-9999DFC6D18E}|TheChronicle\\TheChronicle.csproj|solutionrelative:thechronicle\\view\\shop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{32339C44-B11D-FD66-C357-58C2A15F51CB}|TheChronicle\\TheChronicle.csproj|c:\\users\\alexander.eklundfal\\source\\repos\\thechronicle\\thechronicle\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32339C44-B11D-FD66-C357-58C2A15F51CB}|TheChronicle\\TheChronicle.csproj|solutionrelative:thechronicle\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32339C44-B11D-FD66-C357-58C2A15F51CB}|TheChronicle\\TheChronicle.csproj|c:\\users\\alexander.eklundfal\\source\\repos\\thechronicle\\thechronicle\\view\\village.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32339C44-B11D-FD66-C357-58C2A15F51CB}|TheChronicle\\TheChronicle.csproj|solutionrelative:thechronicle\\view\\village.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32339C44-B11D-FD66-C357-58C2A15F51CB}|TheChronicle\\TheChronicle.csproj|c:\\users\\alexander.eklundfal\\source\\repos\\thechronicle\\thechronicle\\view\\startmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32339C44-B11D-FD66-C357-58C2A15F51CB}|TheChronicle\\TheChronicle.csproj|solutionrelative:thechronicle\\view\\startmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32339C44-B11D-FD66-C357-58C2A15F51CB}|TheChronicle\\TheChronicle.csproj|c:\\users\\alexander.eklundfal\\source\\repos\\thechronicle\\thechronicle\\view\\village.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32339C44-B11D-FD66-C357-58C2A15F51CB}|TheChronicle\\TheChronicle.csproj|solutionrelative:thechronicle\\view\\village.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32339C44-B11D-FD66-C357-58C2A15F51CB}|TheChronicle\\TheChronicle.csproj|c:\\users\\alexander.eklundfal\\source\\repos\\thechronicle\\thechronicle\\view\\shop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32339C44-B11D-FD66-C357-58C2A15F51CB}|TheChronicle\\TheChronicle.csproj|solutionrelative:thechronicle\\view\\shop.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32339C44-B11D-FD66-C357-58C2A15F51CB}|TheChronicle\\TheChronicle.csproj|c:\\users\\alexander.eklundfal\\source\\repos\\thechronicle\\thechronicle\\view\\shop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32339C44-B11D-FD66-C357-58C2A15F51CB}|TheChronicle\\TheChronicle.csproj|solutionrelative:thechronicle\\view\\shop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,65 +50,122 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Village.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\View\\Village.xaml.cs",
-              "RelativeDocumentMoniker": "TheChronicle\\View\\Village.xaml.cs",
-              "ToolTip": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\View\\Village.xaml.cs",
-              "RelativeToolTip": "TheChronicle\\View\\Village.xaml.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAkAAABLAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "TheChronicle\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\AppShell.xaml.cs",
+              "RelativeToolTip": "TheChronicle\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T07:50:59.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Shop.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\View\\Shop.xaml.cs",
-              "RelativeDocumentMoniker": "TheChronicle\\View\\Shop.xaml.cs",
-              "ToolTip": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\View\\Shop.xaml.cs",
-              "RelativeToolTip": "TheChronicle\\View\\Shop.xaml.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-23T07:49:28.961Z",
+              "WhenOpened": "2026-11-23T09:55:06.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Shop.xaml",
-              "DocumentMoniker": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\View\\Shop.xaml",
-              "RelativeDocumentMoniker": "TheChronicle\\View\\Shop.xaml",
-              "ToolTip": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\View\\Shop.xaml",
-              "RelativeToolTip": "TheChronicle\\View\\Shop.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\App.xaml",
+              "RelativeDocumentMoniker": "TheChronicle\\App.xaml",
+              "ToolTip": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\App.xaml",
+              "RelativeToolTip": "TheChronicle\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-23T07:45:50.822Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 243,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "WhenOpened": "2026-11-23T09:54:36.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\AppShell.xaml",
+              "RelativeDocumentMoniker": "TheChronicle\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\AppShell.xaml",
+              "RelativeToolTip": "TheChronicle\\AppShell.xaml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-23T09:51:25.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TheChronicle\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\App.xaml.cs",
+              "RelativeToolTip": "TheChronicle\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T09:51:09.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StartMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\View\\StartMenu.xaml",
+              "RelativeDocumentMoniker": "TheChronicle\\View\\StartMenu.xaml",
+              "ToolTip": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\View\\StartMenu.xaml",
+              "RelativeToolTip": "TheChronicle\\View\\StartMenu.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-23T08:53:01.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Village.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\View\\Village.xaml.cs",
+              "RelativeDocumentMoniker": "TheChronicle\\View\\Village.xaml.cs",
+              "ToolTip": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\View\\Village.xaml.cs",
+              "RelativeToolTip": "TheChronicle\\View\\Village.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAywBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T07:50:59.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Village.xaml",
               "DocumentMoniker": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\View\\Village.xaml",
               "RelativeDocumentMoniker": "TheChronicle\\View\\Village.xaml",
               "ToolTip": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\View\\Village.xaml",
               "RelativeToolTip": "TheChronicle\\View\\Village.xaml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAswBoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-23T07:50:29.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-23T07:50:29.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shop.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\View\\Shop.xaml.cs",
+              "RelativeDocumentMoniker": "TheChronicle\\View\\Shop.xaml.cs",
+              "ToolTip": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\View\\Shop.xaml.cs",
+              "RelativeToolTip": "TheChronicle\\View\\Shop.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T07:49:28.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shop.xaml",
+              "DocumentMoniker": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\View\\Shop.xaml",
+              "RelativeDocumentMoniker": "TheChronicle\\View\\Shop.xaml",
+              "ToolTip": "C:\\Users\\alexander.eklundfal\\source\\repos\\TheChronicle\\TheChronicle\\View\\Shop.xaml",
+              "RelativeToolTip": "TheChronicle\\View\\Shop.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-23T07:45:50.822Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 243,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

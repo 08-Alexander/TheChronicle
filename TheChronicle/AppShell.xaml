@@ -6,9 +6,14 @@
     xmlns:local="clr-namespace:TheChronicle.View"
     Title="TheChronicle">
 
-    <ShellContent
-        Title="Home"
+    <TabBar>
+    <ShellContent 
+        Title="Startmenu"
+        ContentTemplate="{DataTemplate local:StartMenu}"
+        Route="StartMenu" />
+        <ShellContent 
+        Title="Byn"
         ContentTemplate="{DataTemplate local:Village}"
         Route="Village" />
-
+    </TabBar>
 </Shell>
