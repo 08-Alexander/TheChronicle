@@ -14,7 +14,7 @@
                 SemanticProperties.Description="dot net bot in a submarine number ten" />
 
             <Label
-                Text="Byn"
+                Text="Byn Berga"
                 x:Name="MinByLabel"
                 Style="{StaticResource Headline}"
                 SemanticProperties.HeadingLevel="Level1" />
